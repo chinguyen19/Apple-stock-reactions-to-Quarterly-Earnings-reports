@@ -38,16 +38,17 @@ This project analyzes the impact of Apple’s quarterly earnings reports on its 
 ## Key Findings
 
 | Quarter | Immediate Return % | Extended Drift % | Gap Return % |
-|---------|------------------|-----------------|--------------|
-| Q4 2024 | 1.39             | 2.84            | 0.84         |
-| Q1 2025 | 2.58             | 4.23            | 0.40         |
-| Q2 2025 | 3.00             | 5.60            | 1.05         |
-| Q3 2025 | 3.91             | 5.59            | 0.86         |
+|---------|-------------------|------------------|---------------|
+| Q4 2024 | -3.12             | -4.26            | -0.33         |
+| Q1 2025 | -1.40             |  1.28            | -0.29         |
+| Q2 2025 | -3.36             | -5.53            | -1.61         |
+| Q3 2025 | -3.19             | -5.20            | -0.27         |
 
 **Observations:**  
-- Positive immediate market reactions for most quarters  
-- Extended drift suggests short-term momentum  
-- Gap return captures overnight reactions, typically smaller than immediate return  
+- Most quarters show a negative immediate market reaction to Apple’s earnings, indicating that stock prices generally fell on or around the earnings release.
+- The extended drift is also mostly negative, suggesting that the short-term trend continued downward after the event.
+- Gap returns are relatively small but generally negative, showing modest overnight price changes following the earnings announcements.
+Overall, these results suggest that these particular quarters were viewed cautiously or negatively by the market.  
 
 ---
 
@@ -55,11 +56,11 @@ This project analyzes the impact of Apple’s quarterly earnings reports on its 
 
 ### Time-Series Plot
 Shows Apple stock closing price over time with vertical markers indicating quarterly earnings events.
+![Time-Series Plot Placeholder](plots/time_series_plot.png)
 
 ### Bar Chart
 Compares Immediate Return, Extended Drift, and Gap Return for all four quarters.
-
-*Example charts are included in the `/plots` directory of the repository.*
+![Bar Chart Placeholder](plots/bar_chart.png)
 
 ---
 
