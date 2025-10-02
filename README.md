@@ -56,11 +56,11 @@ Overall, these results suggest that these particular quarters were viewed cautio
 
 ### Time-Series Plot
 Shows Apple stock closing price over time with vertical markers indicating quarterly earnings events.
-![Time-Series Plot Placeholder](plots/time_series_plot.png)
+![Time-Series Plot Placeholder](time_series_plot.png)
 
 ### Bar Chart
 Compares Immediate Return, Extended Drift, and Gap Return for all four quarters.
-![Bar Chart Placeholder](plots/bar_chart.png)
+![Bar Chart Placeholder](bar_chart.png)
 
 ---
 
